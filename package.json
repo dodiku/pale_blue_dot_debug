@@ -1,0 +1,25 @@
+{
+  "name": "pale_blue_dot",
+  "version": "1.0.0",
+  "description": "good luck to all of us :)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodiku/pale_blue_dot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodiku/pale_blue_dot/issues"
+  },
+  "homepage": "https://github.com/dodiku/pale_blue_dot#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0",
+    "socket.io": "^1.4.8"
+  }
+}
